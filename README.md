@@ -7,3 +7,8 @@
 * untangling traffic congestions - every car has independent objectives(destinations) to go to but is fixed in a jam, local interactions using fixed rules must lead to an overall emergent behaviour where the congestion slowly dissolves
 * decentralized decisive behaviors which enable choosing least crowded lanes leading to same destination
 * 
+
+###KEY IDEAS AND CONCEPTS that could be used!
+* Stigmergy
+* self organization
+* school of fish, flock of birds
