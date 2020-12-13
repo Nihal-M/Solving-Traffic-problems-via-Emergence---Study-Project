@@ -2,6 +2,8 @@
 
 >We are trying to use the knowledge of Complex Adaptive Systems to try and solve the problems of traffic via the phenomena of emergence.
 
+ANUBHAV WAS HERE
+
 ###PROBLEMS TO TACKLE:
 * untangling traffic congestions - every car has independent objectives(destinations) to go to but is fixed in a jam, local interactions using fixed rules must lead to an overall emergent behaviour where the congestion slowly dissolves (there are two sorts of cases we're taking)
 * 
